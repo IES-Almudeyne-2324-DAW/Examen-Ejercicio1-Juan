@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+    margin: 0px;
+}
+
+main h1{
+    color: red;
+}
+
+main img{
+    aspect-ratio: 1/1;
+    width: 500px;
+}
+
+main section{
+    text-align: center;
+}
+
+main h2{
+    text-decoration: underline;
+}
